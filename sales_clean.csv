@@ -1,0 +1,4 @@
+order_id,date,product,quantity,price,total
+1,2026-10-01,Pen,10,5,50
+2,2026-10-01,Book,2,120,240
+5,2026-10-03,Book,3,120,360
