@@ -13,6 +13,8 @@ A simple Python ETL pipeline: CSV to SQLite using pandas.
 3. Load (`load.py`): save clean data into SQLite (`sales.db`)
 
 ## Run
+```
 pip install pandas
 py transform.py
 py load.py
+```
